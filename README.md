@@ -1,7 +1,6 @@
 # It is a music streaming app made using Kotlin and firebase
 
 # Create account page
-![WhatsApp Image 2024-06-04 at 19 31 14_a1c61486](https://github.com/Abhay2004Kumar/Music_Streamer_App/assets/119209682/7d251ed7-ef43-47e2-8831-6f978a6e52e9)
 
 # Login Page
 ![WhatsApp Image 2024-06-04 at 19 31 14_a86c51ce](https://github.com/Abhay2004Kumar/Music_Streamer_App/assets/119209682/c0bda431-facd-4629-9840-bda8f8ebfa65)
